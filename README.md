@@ -25,7 +25,6 @@ Uses a few different elements used to make this:
 
 * `npm install budo -g`
 * `npm install`
-* `bower install`
 
 ## Run
 
