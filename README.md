@@ -1,4 +1,4 @@
-# Had A Love
+# "Had A Love" - Vessels artwork in 3D
 
 ## Intro
 
@@ -32,6 +32,10 @@ Uses a few different elements used to make this:
 
 Navigate to http://localhost:9966.
 
+
+## Demo
+
+View on [Codepen](http://codepen.io/willdonohoe/full/egQbeQ/)
 
 ## Licence
 
